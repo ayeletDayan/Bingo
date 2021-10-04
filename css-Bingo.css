@@ -1,0 +1,54 @@
+*{
+  margin: auto;
+  text-align: center;
+  border-radius: 10px;
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.cell {
+  /* background-color: rgb(51, 17, 44); */
+  background-color: seashell;
+  font-size: 10px;
+  color: red;
+  width: 25px;
+  height: 25px;
+  border: 2px solid rgba(255, 0, 0, 0.301);
+}
+
+/* .board {
+background-color: tomato;
+width: 300px;
+height: 300px;
+color: white;
+display: block;
+} */
+
+.board1 {
+  padding: 10px;
+  background-color: tomato;
+  color: white;
+  display: block;
+  width: 170px;
+  height: 170px;
+  }
+
+.board2 {
+  padding: 10px;
+  background-color: tomato;
+  color: white;
+  display: block;
+  width: 170px;
+  height: 170px;
+  }
+
+.button{
+  background-color:grey;
+  color: whitesmoke;
+  font-size: xx-large;
+  height: 100px;
+  width: 100px;
+}
+
+
